@@ -1,4 +1,4 @@
-# yuk_kuy_mobile
+# YukKuy Mobile Apps
 YukKuy is a comprehensive travel agent app that aims to simplify and enhance the travel planning experience for users. This app is a one-stop solution for all travel-related needs, offering a range of features to plan, book, and manage trips efficiently.
 
 ### Tech-stack Mobile
